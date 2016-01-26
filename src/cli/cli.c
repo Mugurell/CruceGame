@@ -22,6 +22,8 @@
 #define MAX_CARDS_PER_LINE 8
 #define MAX_NAME_SIZE 20
 #define ROUND_DIALOG_SCORE_SIZE 5
+#define GAME_HELP_MANUAL "/docs/man1/help.txt"
+
 #define SLEEP_TIME 2
 
 void cruceGameHelp()

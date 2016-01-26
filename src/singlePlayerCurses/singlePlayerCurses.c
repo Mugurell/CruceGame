@@ -4,7 +4,7 @@
  *        This module is the controller.
  */
 
-#include <cli.h>
+#include <cli/cli.h>
 #include <curses.h>
 #include <locale.h>
 #include <string.h>
@@ -19,6 +19,7 @@
 #define sleep(s) Sleep(s*1000)
 #else
 #include <unistd.h>
+
 #endif
 
 /**

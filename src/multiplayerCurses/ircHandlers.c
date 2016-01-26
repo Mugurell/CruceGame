@@ -1,5 +1,5 @@
 #include "ircHandlers.h"
-#include <parser.h>
+#include <parser/parser.h>
 
 int onPRIVMSG_handler(struct Privmsg *privmsg)
 {

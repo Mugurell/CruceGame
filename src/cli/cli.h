@@ -7,9 +7,9 @@
  *        interface.
  */
  
-#include <cruceGame.h>
+#include <libCruceGame/cruceGame.h>
 #include <ncurses.h>
-#include <network.h>
+#include <networking/network.h>
 
 #define GAME_COMMAND_FLAG '#'
 

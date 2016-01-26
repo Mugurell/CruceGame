@@ -2,8 +2,8 @@
 #define IRC_HANDLERS_H
 
 #include <ncurses.h>
-#include <network.h>
-#include <cli.h>
+#include <networking/network.h>
+#include <cli/cli.h>
 
 
 int onPRIVMSG_handler(struct Privmsg *privmsg);

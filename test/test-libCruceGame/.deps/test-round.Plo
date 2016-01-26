@@ -1,0 +1,172 @@
+test-libCruceGame/test-round.lo: test-libCruceGame/test-round.c \
+ /usr/include/stdc-predef.h ../src/libCruceGame/round.h \
+ ../src/libCruceGame/platform.h ../src/libCruceGame/deck.h \
+ ../src/libCruceGame/constants.h ../src/libCruceGame/team.h \
+ ../src/libCruceGame/errors.h ../src/libCruceGame/errors.h \
+ ../src/libCruceGame/constants.h ../src/libCruceGame/team.h \
+ ../src/libCruceGame/deck.h /usr/include/cutter/cutter.h \
+ /usr/include/cutter/cutter/cut-version.h \
+ /usr/include/cutter/cutter/cut-features.h \
+ /usr/include/cutter/cutter/cut-assertions.h \
+ /usr/include/cutter/cutter/cut-assertions-helper.h \
+ /usr/include/cutter/cutter/cut-public.h \
+ /usr/include/cutter/cutter/cut-config.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h /usr/include/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /usr/include/x86_64-linux-gnu/sys/uio.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/bits/uio.h \
+ /usr/include/x86_64-linux-gnu/bits/socket.h \
+ /usr/include/x86_64-linux-gnu/bits/socket_type.h \
+ /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
+ /usr/include/x86_64-linux-gnu/asm/socket.h \
+ /usr/include/asm-generic/socket.h \
+ /usr/include/x86_64-linux-gnu/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h \
+ /usr/include/x86_64-linux-gnu/sys/un.h \
+ /usr/include/cutter/cutter/cut-types.h \
+ /usr/include/cutter/cutter/cut-macros.h \
+ /usr/include/cutter/cutter/cut-multi-process.h \
+ /usr/include/cutter/cutter/cut-test-utils.h \
+ /usr/include/cutter/cutter/cut-test-utils-helper.h \
+ /usr/include/cutter/cutter/cut-helper.h \
+ /usr/include/cutter/cutter/cut-experimental.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h
+
+/usr/include/stdc-predef.h:
+
+../src/libCruceGame/round.h:
+
+../src/libCruceGame/platform.h:
+
+../src/libCruceGame/deck.h:
+
+../src/libCruceGame/constants.h:
+
+../src/libCruceGame/team.h:
+
+../src/libCruceGame/errors.h:
+
+../src/libCruceGame/errors.h:
+
+../src/libCruceGame/constants.h:
+
+../src/libCruceGame/team.h:
+
+../src/libCruceGame/deck.h:
+
+/usr/include/cutter/cutter.h:
+
+/usr/include/cutter/cutter/cut-version.h:
+
+/usr/include/cutter/cutter/cut-features.h:
+
+/usr/include/cutter/cutter/cut-assertions.h:
+
+/usr/include/cutter/cutter/cut-assertions-helper.h:
+
+/usr/include/cutter/cutter/cut-public.h:
+
+/usr/include/cutter/cutter/cut-config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/sys/socket.h:
+
+/usr/include/x86_64-linux-gnu/sys/uio.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:
+
+/usr/include/x86_64-linux-gnu/bits/sockaddr.h:
+
+/usr/include/x86_64-linux-gnu/asm/socket.h:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/x86_64-linux-gnu/asm/sockios.h:
+
+/usr/include/asm-generic/sockios.h:
+
+/usr/include/x86_64-linux-gnu/sys/un.h:
+
+/usr/include/cutter/cutter/cut-types.h:
+
+/usr/include/cutter/cutter/cut-macros.h:
+
+/usr/include/cutter/cutter/cut-multi-process.h:
+
+/usr/include/cutter/cutter/cut-test-utils.h:
+
+/usr/include/cutter/cutter/cut-test-utils-helper.h:
+
+/usr/include/cutter/cutter/cut-helper.h:
+
+/usr/include/cutter/cutter/cut-experimental.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:

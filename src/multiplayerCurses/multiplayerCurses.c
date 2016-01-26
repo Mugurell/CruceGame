@@ -4,7 +4,7 @@
  *        This module is the controller.
  */
 
-#include <cli.h>
+#include <cli/cli.h>
 #include <curses.h>
 #include <locale.h>
 #include <string.h>
@@ -22,7 +22,7 @@
 #include <unistd.h>
 #endif
 
-#include <network.h>
+#include <networking/network.h>
 #include "ircHandlers.h"
 
 /**

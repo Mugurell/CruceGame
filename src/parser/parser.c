@@ -1,8 +1,8 @@
 #include "parser.h"
-#include <cli.h>
+#include <cli/cli.h>
 #include <ncurses.h>
-#include <cruceGame.h>
-#include <network.h>
+#include <libCruceGame/cruceGame.h>
+#include <networking/network.h>
 #include <stdlib.h>
 #include <string.h>
 
